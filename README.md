@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-khalid2a933b154)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-khalid-laravel-php-developer/)
 [![Email](https://img.shields.io/badge/Email-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhakhalid68@gmail.com)
 [![Phone](https://img.shields.io/badge/+966%20510%20745%20454-27AE60?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966510745454)
 [![Available](https://img.shields.io/badge/Transferable%20Iqama-E67E22?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
@@ -13,7 +13,7 @@
 
 ---
 
-## Professional Summary
+## About Me
 
 Senior PHP Laravel Developer with **4+ years** of experience delivering **50+ enterprise-grade web applications** across SaaS, ERP, LMS, automation, and e-commerce domains for international clients in the **UK, Australia, and Pakistan**.
 
