@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Talha Bin Khalid — Senior PHP Laravel Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/talhakhalid68/talhakhalid68/main/banner%20(1).png" alt="Talha Bin Khalid — Senior PHP Laravel Developer" width="100%"/>
 
 <br/>
 
